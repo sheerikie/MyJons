@@ -1,0 +1,22 @@
+{
+    "budgetId":1,
+    "name":"Budget 2019",
+    "budgetItems":[
+        {
+            "name":"Boarding",
+            "amount":85000000
+        },
+        {
+            "name":"Tuition",
+            "amount":60000000
+        },
+        {
+            "name":"B.E.S",
+            "amount":75000000
+        },
+        {
+            "name":"Lunch",
+            "amount":8000000
+        }
+    ]
+}
